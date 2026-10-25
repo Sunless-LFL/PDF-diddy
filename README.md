@@ -1,4 +1,4 @@
-# Windows process monitor
+# Win32 Process Monitor
 
 A Windows C++ project for exploring process enumeration and simple behavior-based security monitoring with the Win32 API.
 
